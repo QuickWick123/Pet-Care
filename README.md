@@ -1,4 +1,6 @@
-## This repo has been forked. Please go to https://github.com/Javipen/Pet-Care to see it's contributors.
+## This repo has been forked. Please go to https://github.com/Javipen/Pet-Care to see it's contributors. To see a live demo of the "View Books" section which I developed: https://youtu.be/K8vAbcowUH4
+
+Technologies used: REST API, SQL, HTML, CSS, Python, Django Framework
 
 ## React Native Fiber Firebase v2.0.0
 
